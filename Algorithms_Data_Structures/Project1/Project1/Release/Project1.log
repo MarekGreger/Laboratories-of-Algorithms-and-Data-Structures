@@ -1,0 +1,12 @@
+﻿  Źródło1.cpp
+Źródło1.obj : error LNK2005: Element _main jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "void __cdecl sortowanie_shella(int *,int)" (?sortowanie_shella@@YAXPAHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "void __cdecl sortowanie_wstawianie(int *,int)" (?sortowanie_wstawianie@@YAXPAHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "void __cdecl sortowanie_wybieranie(int *,int)" (?sortowanie_wybieranie@@YAXPAHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "void __cdecl sortowanie_babelkowe(int *,int)" (?sortowanie_babelkowe@@YAXPAHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "void __cdecl eksperyment(void (__cdecl*)(int *,int),class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_ostream<char,struct std::char_traits<char> > &,int)" (?eksperyment@@YAXP6AXPAHH@ZABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$basic_ostream@DU?$char_traits@D@std@@@2@H@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "double __cdecl mierz_czas(int *,int,void (__cdecl*)(int *,int))" (?mierz_czas@@YANPAHHP6AX0H@Z@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "bool __cdecl jest_posortowane(int *,int)" (?jest_posortowane@@YA_NPAHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "void __cdecl wypelnij(int *,int,int,int)" (?wypelnij@@YAXPAHHHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+Źródło1.obj : error LNK2005: Element "int __cdecl losowa_liczba(int,int)" (?losowa_liczba@@YAHHH@Z) jest już zdefiniowany w elemencie Źródło.obj
+C:\Users\grege\Documents\GitHub\8f9a6e1d-gr04-repo\projekt 1\Project1\Release\Project1.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
